@@ -5,6 +5,7 @@
 To derive data-driven, actionable insights from the models built and provide strategies to enhance performance and reduce employee attrition.
 
 **Key Findings:**
+
 *1. Factors Influencing Employee Performance (From Regression & Deep Learning models):*
 
   1. Salary and Experience show strong positive correlation with performance scores.
@@ -42,10 +43,23 @@ To derive data-driven, actionable insights from the models built and provide str
 
 **Conclusion:**
 
-Combining statistical insights with machine learning predictions, we can:
+1. Combining statistical insights with machine learning predictions, we can:
 
-Proactively improve employee productivity.
+2. Proactively improve employee productivity.
 
-Design department-specific engagement strategies.
+3. Design department-specific engagement strategies.
 
-Reduce attrition and build a sustainable, satisfied workforce.
+4. Reduce attrition and build a sustainable, satisfied workforce.
+
+**Visualizations:**
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/4bee2ea7-3d5a-4028-b23e-6e60085f4f52" />
+
+<img width="567" height="509" alt="image" src="https://github.com/user-attachments/assets/d91fd28d-0409-4335-bfad-0a89d7dd2f72" />
+
+<img width="562" height="455" alt="image" src="https://github.com/user-attachments/assets/9b441ea8-4f58-4e54-89ed-c3a69246b44e" />
+
+<img width="870" height="528" alt="image" src="https://github.com/user-attachments/assets/886a7340-d39f-4680-96d6-c4be09ae1a01" />
+
+
+
